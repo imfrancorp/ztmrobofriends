@@ -1,0 +1,15 @@
+h1 {
+    font-family: monospace;
+    font-size: 3em;
+    font-weight: 500;
+    font-style: normal;
+    color: rgba(245, 245, 220, 0.647);
+}
+
+h2 {
+    font-family: monospace;
+    font-size: x-small;
+    font-weight: 500;
+    font-style: normal;
+    color: rgba(245, 245, 220, 0.647);
+}
